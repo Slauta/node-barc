@@ -17,5 +17,5 @@
   "dependencies": {
       "node-canvas-nw-build": ">=0.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {}
 }

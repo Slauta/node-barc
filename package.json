@@ -16,7 +16,7 @@
     "node": ">=v0.4.8"
   },
   "dependencies": {
-      "canvas": ">=0.0.1"
+      "node-canvas-nw-build": ">=0.0.1"
   },
   "devDependencies": {},
   "licenses": [
